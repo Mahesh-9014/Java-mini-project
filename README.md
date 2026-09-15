@@ -59,7 +59,6 @@ The interest rate is determined based on the customer's CIBIL score:
 
 ## 📂 Project Structure
 
-```text
 com.oops.inheritance
 │
 ├── Loan.java
@@ -67,11 +66,9 @@ com.oops.inheritance
 ├── GoldLoan.java
 ├── HomeLoan.java
 └── PersonalLoan.java
-```
 
 ## 🔄 Working Flow
 
-```text
 Customer Details
        ↓
 Document Validation
@@ -85,7 +82,6 @@ Interest Rate Calculation
 Loan Eligibility
        ↓
 Approved / Rejected
-```
 
 ## 🎯 Objective
 
