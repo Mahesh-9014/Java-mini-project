@@ -2,10 +2,6 @@ package com.oops.inheritance;
 
 public class PersonalLoan extends LoanInf {
 	
-	void personalLoanDocInfo() {
-		System.out.println("Personal Loan Info!!!");
-	}
-
 	public static void main(String[] args) {
 		
 		PersonalLoan p = new PersonalLoan();
